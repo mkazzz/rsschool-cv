@@ -1,8 +1,8 @@
 # Michał Kazek
+___
 ### _Junior Front End Developer in progress_  
 
 ![mkazz-profile-photo](mkazzz.png)
-
 
 #### Contact me:  
 
