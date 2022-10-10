@@ -1,8 +1,7 @@
 # Michał Kazek
+### _Junior Front End Developer in progress_  
 
-![mkazz-profile-photo](https://scontent.fpoz4-1.fna.fbcdn.net/v/t31.18172-8/23000204_10208189066803851_2610620890366515134_o.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=An5CkSKpfIkAX_MuVIq&tn=GkgIGpYc-YqEMjDu&_nc_ht=scontent.fpoz4-1.fna&oh=00_AT-brP4l09W0fytmTGbD_5XL6fFlLlZwaATaaqchkoNaYA&oe=636B3172)
-
-## _Junior Front End Developer in progress_  
+![mkazz-profile-photo](mkazzz.png)
 
 
 #### Contact me:  
