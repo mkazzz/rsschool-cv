@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,100;0,300;1,300&display=swap');
+
+* {
+    font-size: 100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    margin-top: 20px;
+    background: black;
+    font-family: arial, helvetica, sans-serif;
+    font-weight: 300;
+}
+
+main {
+    width: 70%;
+}
+
+aside {
+    width: 30%;
+    padding: 0px
+}
+
+#header-image-box {
+    width: 30%;
+    padding: 0px
+}
+
+#header-title-box {
+    width: 70%;
+    padding-left: 4rem;
+    ;
+}
+
+main,
+aside,
+header {
+    background-color: #eef;
+    padding: 40px 30px 0px 30px;
+}
+
+footer {
+    background-color: #eef;
+    padding: 2rem
+}
+
+section {
+    padding: 40px 30px;
+}
+
+footer {
+
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+#wrapper {
+    width: 80vw;
+    min-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+
+}
+
+/* #wrapper>* {
+    flex: 1 100%;
+} */
+
+
+header {
+    border-radius: 20px 20px 0 0;
+    min-height: 330px;
+    width: 100%;
+    padding-top: 60px;
+    /* width: 80vw; */
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+
+}
+
+nav {
+    width: 100%;
+}
+
+
+footer {
+    border-top: 1px solid lightgrey;
+    width: 100%;
+    border-radius: 0 0 20px 20px;
+
+}
+
+
+
+aside {
+    background-color: #eef;
+}
+
+#address {
+    padding-left: 0;
+}
+
+#address>ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+#address li {
+    margin-bottom: 1rem;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+
+nav li {
+    flex: 1;
+    text-align: center;
+    background-color: rgb(199, 205, 212);
+}
+
+nav li:hover {
+
+    background-color: rgb(238, 242, 246);
+}
+
+
+nav>a #image-box {
+    display: inline-block;
+    text-align: left;
+}
+
+
+
+.footer-img {
+    height: 32px;
+    width: auto;
+    display: inline-block;
+
+
+}
+
+section#about {
+
+
+    padding: 40px 0px;
+    display: flex;
+
+}
+
+#profile-img {
+    width: 100%;
+    height: auto;
+}
+
+section#about h2 {
+    text-align: left;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
+    color: rgb(44, 44, 44);
+    margin-top: 2em;
+}
+
+
+
+h1 {
+    text-align: left;
+    font-size: 3.3rem;
+    font-family: 'Bebas Neue', sans-serif;
+    padding: 0;
+    width: 100%;
+    line-height: 3.3rem;
+    margin: 0;
+}
+
+h1+p {
+    font-size: 1.65em;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
+h2 {
+
+    font-size: 1.4rem;
+
+}
+
+pre {
+    background: black;
+    border-radius: 10px;
+    color: darkgreen;
+}
+
+section h2 {
+    padding: 0 0 1em 0;
+    margin: 0px;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
+    color: rgb(23, 85, 57);
+}
+
+p {
+    text-align: left;
+    padding: 1rem 0;
+    line-height: 1.5em;
+    font-size: 1em;
+
+}
+
+ul {
+    margin-left: 1em;
+
+    font-size: 1em;
+}
+
+li {
+    line-height: 1.8em;
+
+}
+
+a {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+a:hover {
+
+    color: green;
+}
+
+.footer-box {
+    line-height: 32px;
+    vertical-align: middle;
+}
+
+/* 
+
+
+
+
+
+
+
+
+ */

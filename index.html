@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>01 - js fundamentals</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="wrapper">
+        <header>
+
+            <section id="about">
+                <div id="header-image-box">
+                    <img id="profile-img" src="img/mkazzz.png" alt="My profile photo">
+
+                </div>
+                <div id="header-title-box">
+                    <h1>Michał Kazek</h1>
+                    <p>Junior FrontEnd Developer ... in progress</p>
+                    <h2>About Me</h2>
+                    <p>I love coffee and coding. I work for an HVAC company as an ERP system developer,
+                        but it's time to change something in my life. I started this course, because I want to
+                        develop and organize my knowledge.
+                    </p>
+                </div>
+            </section>
+            <nav>
+                <ul>
+                    <li><a href="#address">Contact</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#code">My code</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#languages">Languages</a></li>
+                </ul>
+            </nav>
+
+        </header>
+
+
+        <aside>
+            <section id="address">
+                <h2>Contact me:</h2>
+                <ul>
+                    <li><strong>Address:</strong><br>Gdynia, Poland</li>
+                    <li><strong>E-mail:</strong><br> <a
+                            href="mailto:mkazek+rs_school@gmail.com">mkazek+rs_school@gmail.com</a></li>
+                    <li><strong>Phone:</strong><br> <a href="tel:+48111222333">+48 111 222 333</a></li>
+
+                </ul>
+            </section>
+
+        </aside>
+
+        <main>
+
+
+            <section id="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>WebDev: HTML + CSS + JavaScript + PHP</li>
+                    <li>DataBases: MySql, Oracle, Firebird</li>
+                    <li>Programming Languages: Java (basic), Python (basic)</li>
+                    <li>GIT</li>
+                    <li>Graphic design: Photoshop, Affinity Photo, Adobe XD</li>
+                </ul>
+
+            </section>
+
+
+            <section id="code">
+                <h2>Code examples</h2>
+                <pre>
+                <code>
+                class App extends Component {
+                    constructor(props) {
+                      super(props);
+                      this.state = {
+                        loginPage: [],
+                        ordersScreen: [],
+                        listaZlecen: []
+                      }
+                    }
+                    componentDidMount() {
+                      var loginPage = [];
+                  
+                    
+                      console.log('this from App: ' + this);
+                      this.setState({
+                        loginPage: loginPage,
+                        id_pracownika: this.setState.id_pracownika
+                      })
+                    }
+                    render() {
+                      return (
+
+                      );
+                    }
+                  }
+                </code>
+            </pre>
+            </section>
+
+            <section id="education">
+                <h2>Education</h2>
+
+                <strong>TECHNICAL UNIVERSITY OF LODZ / Computer Science</strong>
+                <p>Faculty of Electrical, Electronic, Computer and Control Engineering (2001)
+
+
+                    BSc in Computer Science; speciality: Network Systems.<br>
+                    <em>2015 Thesis: “Remote access to a corporate database of an ERP system based on management
+                        system
+                        Firebird”.</em>
+                </p>
+
+
+                <strong>FRONT-END WEB UI FRAMEWORKS AND TOOLS [COURSERA]</strong>
+
+                <p>The Hong Kong University of Science and Technology<br>
+                    <em> June 2016 - Certificate no. TLY3KL2FFEC4</em></p>
+
+
+
+                <strong>HTML, CSS AND JAVA SCRIPT [COURSERA]</strong>
+
+                <p>The Hong Kong University of Science and Technology<br>
+                    <em>July 2016 _Certificate no. CJ8GBXDQF434</em></p>
+
+
+
+            </section>
+
+            <section id="languages">
+                <h2>Languages</h2>
+
+                <ul>
+                    <li><strong>Polish</strong> Native</li>
+                    <li><strong>English</strong> Intermediate <em>(In the range between B1 (INTERMEDIATE) to B2 (UPPER
+                            INTERMEDIATE))</em> according to <a href="https://www.efset.org/">EFSET</a></li>
+                    <li><strong>Russian</strong> Basic reading and understanding</li>
+                </ul>
+
+
+
+
+
+
+
+            </section>
+
+        </main>
+
+
+
+
+        <footer>
+            <a class="footer-box" href="http://github.com/mkazzz"><img class="footer-img footer-box"
+                    src="img/github.png" alt="Logo RS School"> my github</a>
+            <time class="footer-box" datetime="2022-10">2022-10</time>
+            <a href="https://github.com/rolling-scopes-school/js-fe-course-en"><img class="footer-img footer-box"
+                    src="img/rs_school.svg" alt="Logo RS School"></a>
+        </footer>
+    </div>
+</body>
+
+</html>

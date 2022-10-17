@@ -1,2 +1,3 @@
-# rsschool-cv
-[Link to CV](https://mkazzz.github.io/rsschool-cv/cv)
+# CV. HTML, CSS & Git Basics
+
+https://mkazzz.github.io/rsschool-cv/
