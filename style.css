@@ -94,6 +94,7 @@ nav {
 
 
 footer {
+    border-top: 1px solid lightgrey;
     width: 100%;
     border-radius: 0 0 20px 20px;
 
@@ -145,7 +146,7 @@ nav>a #image-box {
 
 
 .footer-img {
-    height: 40px;
+    height: 32px;
     width: auto;
     display: inline-block;
 
@@ -244,7 +245,8 @@ a:hover {
 }
 
 .footer-box {
-    line-height: 40px;
+    line-height: 32px;
+    vertical-align: middle;
 }
 
 /* 
