@@ -2,7 +2,7 @@
 ___
 ### _Junior Front End Developer in progress_  
 
-![mkazz-profile-photo](mkazzz.png)
+![mkazz-profile-photo](img/mkazzz.png)
 
 #### Contact me:  
 
